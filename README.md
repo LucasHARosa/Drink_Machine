@@ -1,4 +1,4 @@
-# Maquina_de_bebidas_VHDL
+# Maquina de bebidas VHDL
 
 Esse projeto tem como objetivo a criação de um controlador eletrônico para uma
 máquina de bebidas. A máquina aceita apenas cédulas nos seguintes valores: 1, 2,
